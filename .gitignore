@@ -1,0 +1,36 @@
+# Compiled code
+target/
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+bin/
+
+# Maven local cache
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Local configuration (not versioned)
+local.properties
+application-local.properties
